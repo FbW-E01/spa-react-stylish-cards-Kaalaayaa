@@ -1,0 +1,27 @@
+@font-face {
+font-family: "Outward";
+src: local("outward-master"),
+ url("./outward-master/fonts/webfonts/outward-borders-webfont.ttf") format("truetype");
+font-weight: bold;
+}
+
+@font-face {
+font-family: "Outward-block";
+src: local("Outward-block"),
+ url("./outward-master/fonts/webfonts/outward-block-webfont.ttf") format("truetype");
+font-weight: bold;
+}
+
+@font-face {
+font-family: "Pilowlava";
+src: local("Pilowlava"),
+ url("./pilowlava-master/Fonts/webfonts/Pilowlava-Regular.woff") format("woff");
+font-weight: bold;
+}
+
+@font-face {
+font-family: "Victorianna";
+src: local("Victorianna"),
+ url("./Victorianna-master/fonts/VictoriannaThint_Web/vtf_victorianna_thin-webfont.ttf") format("woff");
+font-weight: bold;
+}
